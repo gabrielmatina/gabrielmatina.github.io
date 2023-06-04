@@ -196,6 +196,7 @@
 .icon-social-stumbleupon,
 .icon-social-youtube,
 .icon-social-dropbox,
+.icon-social-typescrit,
 .icon-social-vkontakte,
 .icon-social-steam {
   font-family: 'simple-line-icons';
@@ -769,6 +770,9 @@
 }
 .icon-social-dropbox:before {
   content: "\e00c";
+}
+.icon-social-typescript:before {
+  content: "\e618";
 }
 .icon-social-vkontakte:before {
   content: "\e618";
